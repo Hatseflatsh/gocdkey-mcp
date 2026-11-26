@@ -1,10 +1,11 @@
 {
   "name": "gocdkey-mcp",
   "version": "1.0.0",
+  "license": "MIT",
   "description": "MCP server with Dutch game prices from gocdkey.nl: current prices per store, lowest price ever, deals and subscriptions.",
   "type": "module",
   "bin": { "gocdkey-mcp": "server.mjs" },
-  "files": ["server.mjs", "README.md"],
+  "files": ["server.mjs", "README.md", "LICENSE"],
   "engines": { "node": ">=18" },
   "homepage": "https://gocdkey.nl/data",
   "keywords": ["mcp", "model-context-protocol", "game-prices", "steam", "gocdkey"]

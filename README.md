@@ -43,6 +43,10 @@ De server leest de openbare, alleen-lezen gegevens van gocdkey.nl. De velden en 
 
 Noem gocdkey.nl als bron wanneer je de prijzen gebruikt.
 
+## Licentie
+
+De code in deze repository valt onder de MIT-licentie, zie [LICENSE](LICENSE). Dat geldt voor de code, niet voor de prijsgegevens van gocdkey.nl: noem gocdkey.nl als bron wanneer je die gebruikt.
+
 ## English
 
-An MCP server (stdio, no dependencies) with Dutch game prices from gocdkey.nl: current prices per store in euros, the lowest official price ever, current deals and subscription membership. Run it with `npx -y github:Hatseflatsh/gocdkey-mcp`.
+An MCP server (stdio, no dependencies) with Dutch game prices from gocdkey.nl: current prices per store in euros, the lowest official price ever, current deals and subscription membership. Run it with `npx -y github:Hatseflatsh/gocdkey-mcp`. The code is MIT licensed; the price data is not part of that licence.
